@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: rgb(102 153 204);
+    font-size: 70px;
+    text-shadow: 3px 3px #000000;
+    padding: 90px 0;
+    font-weight: bold;
+    text-align:center; 
+    margin-top: 0;
+}
+h2{
+    color:rgb(54, 24, 152);
+    font-size:40px;
+    font-weight: bold;
+    text-align:center;
+}
+
+ul{
+    font-size:20px;
+}
+
+p{
+    font-size: 24px;
+}
+
+strong{
+    margin: 0 50px;
+}
+
+header{
+    height:300px;
+    background-color: rgba(180, 176, 191, 0.963);
+}
+
+.content{
+    height:auto;
+    margin:0 auto;
+}
+
+.content_with_background{
+    background-image:url(https://nedugamnet.ru/sites/default/news/9490-a1dd2014c5210def3ce6ce393a397d4325b2916b5c49db617f52fa5ea48efee7сердце.jpg);
+    background-position: 50px;
+    background-size: cover;
+    color:white;
+}
+
+.two_columns{
+    columns:2;
+    margin: 0 100px;
+}
+
+img{
+    border: 1px solid rgb(238, 234, 234);
+    border-radius: 20px;
+    padding: 10px;
+    width: 600px;
+    display: block;
+}
+
+.footer{
+    margin:50px 100px;
+}
